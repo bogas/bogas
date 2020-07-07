@@ -1,3 +1,5 @@
+<body background="https://assets.digitalocean.com/blog/static/hacktoberfest-is-back/hero.png">
+ 
 ## Desktop links
 
 - [Kompromitacje](https://https://kompromitacje.blogspot.com/)
@@ -17,3 +19,5 @@ You can use the [editor on GitHub](https://github.com/bogas/bogas/edit/master/RE
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+</body>
