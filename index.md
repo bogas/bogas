@@ -6,6 +6,7 @@
 
 <div class="info">NEW</div>
 <button type="button">Click Me!</button>
+
 <input type="radio" id="male" name="gender" value="male">
 <label for="male">Male</label><br>
 
