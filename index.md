@@ -1,9 +1,7 @@
 ## Desktop links
 
-```
 -[Kompromitacje](https://https://kompromitacje.blogspot.com/)
 -[Revolution](https://gamithra.com/)
-```
 
 
 
