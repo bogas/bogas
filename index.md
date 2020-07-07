@@ -5,6 +5,7 @@
 
 
 <div class="info">NEW</div>
+<button type="button">Click Me!</button>
 
 ### Jekyll Themes
 
